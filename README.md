@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi. I am a Polish developer and I speak Lua, HTML, JS and Python
+Hi. I am a Polish developer and I write in Lua, HTML, JS and Python
 
 # Current projects 🧑‍💼
 Currently, I don't have a project, nor am I in any of them
