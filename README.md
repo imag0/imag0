@@ -16,6 +16,7 @@ Currently, I don't have a project, nor am I in any of them
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imag0)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+
 # Discord 
 
 https://discord.gg/XjTZvNTHC9
