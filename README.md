@@ -14,3 +14,8 @@ Currently, I don't have a project, nor am I in any of them
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imag0&count_private=true&show_icons=true?theme=buefy)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imag0)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+# Discord 
+
+https://discord.gg/XjTZvNTHC9
