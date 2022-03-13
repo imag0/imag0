@@ -19,4 +19,4 @@ Currently, I don't have a project, nor am I in any of them
 
 # Discord 👍
 
-https://discord.gg/XjTZvNTHC9
+https://discord.gg/NKfbZyCPeV
