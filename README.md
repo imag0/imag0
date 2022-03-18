@@ -20,3 +20,5 @@ Currently, I don't have a project, nor am I in any of them
 # Discord 👍
 
 https://discord.gg/NKfbZyCPeV
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
