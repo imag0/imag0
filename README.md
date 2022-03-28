@@ -16,12 +16,6 @@ Currently, I don't have a project, nor am I in any of them
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imag0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
-### Spotify Playing 🎧
-<p align="center">
-  <a href="https://open.spotify.com/user/pama997">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=pama997&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
-<br />
     
     
 # Discord 👍
