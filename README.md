@@ -22,6 +22,7 @@ Currently, I don't have a project, nor am I in any of them
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+Johny" />
 </p>
+
 ```
              .-"""-.                                                                                              
             /       \
