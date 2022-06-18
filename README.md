@@ -11,9 +11,9 @@ Currently, I don't have a project, nor am I in any of them
 <br />
 
 # My Stats 📈
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imag0&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JohnyDevelopment&count_private=true&show_icons=true?theme=buefy)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imag0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDevelopment&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
