@@ -31,7 +31,7 @@ Currently, I don't have a project, nor am I in any of them
           / `-.__.-\`-._    ,",
          / /|    ___\-._`-.;  , .----.  
         ( ( |.-"`   `'\ '-(     -.---' 
-         \ \/  mlodyr  |   \.__.-'
+         \ \/  Johny   |   \.__.-'
           \|           /     
            \        , /
            ( __`;-;'__`)
