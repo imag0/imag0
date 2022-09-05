@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi. I am a Polish developer and I write in Lua, HTML, JS
+Hi. I am a Polish developer and I write in Lua, HTML, JS AND C#
 
 # Current projects 🧑‍💼
 Currently, I don't have a project, nor am I in any of them
