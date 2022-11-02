@@ -12,8 +12,11 @@ Hi. I am a Polish developer and I write in Lua, HTML, JS AND C#
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDevelopment&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <br />
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
+<br />
+# Banner
 ![KURWA](https://johnydev.fun/gh/bannergh.png](https://i.imgur.com/I5JRrk9.png)
