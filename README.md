@@ -19,4 +19,4 @@ Hi. I am a Polish developer and I write in Lua, HTML, JS AND C#
 ![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
 <br />
 # Banner
-![alt text]([http://url/to/img.png](https://i.imgur.com/8dfHN5j.png))
+![alt text]([https://i.imgur.com/8dfHN5j.png])
