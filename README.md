@@ -16,4 +16,4 @@ Hi. I am a Polish developer and I write in Lua, HTML, JS AND C#
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
-<a href="#"><img width="650px" src="[https://johnydev.fun/gh/bannergh.png](https://i.imgur.com/I5JRrk9.png)"/>
+![KURWA](https://johnydev.fun/gh/bannergh.png](https://i.imgur.com/I5JRrk9.png)
