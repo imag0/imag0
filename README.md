@@ -10,4 +10,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
 <br />
 # Banner
-![alt text](https://i.imgur.com/8dfHN5j.png)
+![alt text](https://i.imgur.com/xprtnjQ.png)
