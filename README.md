@@ -10,4 +10,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
 <br />
 # Banner
-![alt text](https://i.imgur.com/xprtnjQ.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/977277235591516271)](https://discord.com/users/977277235591516271)
