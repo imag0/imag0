@@ -2,6 +2,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/img0/count.svg)
 <br />
 <h2 align="center">Banner</h2>
+<div align="center">
+  <a href="https://discord.com/users/1112981662393958401"><img src="https://lanyard.cnrad.dev/api/1112981662393958401" alt="Total time coded since Aug 28 2023" /></a>
+</div>
 ![Discord Presence](https://lanyard.cnrad.dev/api/1112981662393958401)](https://discord.com/users/1112981662393958401)
 <br />
 <h2 align="center">Wakatime</h2>
